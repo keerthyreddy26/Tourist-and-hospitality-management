@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+    gap: 10px; /* You can adjust the gap as needed */
+    justify-content: space-between;
+  }
+  .App{
+    gap:10px;
+    justify-content: space-between;
+  }
